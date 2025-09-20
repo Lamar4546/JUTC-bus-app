@@ -1,0 +1,3 @@
+2345JM_Accident report: A collision occurred at the intersection of Main Street and Elm Avenue. No injuries reported.
+8765JM_Accident report: A vehicle ran off the road and hit a tree. Minor injuries reported.
+5678JM_Accident report: A motorcyclist lost control and crashed into a parked car. Serious injuries reported.5678AB
